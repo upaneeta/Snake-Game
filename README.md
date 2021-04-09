@@ -1,2 +1,2 @@
 # Snake-Game
-A popular and interesting game using turtle and random module!
+A popular and interesting game using turtle, time and random modules!
